@@ -4,4 +4,4 @@
 
 |产品名称|网址|供应商名称|联系方式|概述|
 |---|---|---|---|---|
-||||||
+|sealos|sealyun.com|sealos|github.com/fanux/sealos|一键部署k8s|
